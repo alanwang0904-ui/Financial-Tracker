@@ -84,7 +84,7 @@ Date,Amount
 ## Example Outputs
 
 <p align="center">
-  <img src="images/output1.png" alt="Monthly Spending" width="70%">
+  <img src="output1.png" alt="Monthly Spending" width="70%">
   <br>
   <em>Figure 1 — Monthly Spending</em>
 </p>
@@ -96,7 +96,7 @@ Date,Amount
 </p>
 
 <p align="center">
-  <img src="images/output3.png" alt="Cumulative Spending" width="70%">
+  <img src="output3.png" alt="Cumulative Spending" width="70%">
   <br>
   <em>Figure 3 — Cumulative Spending</em>
 </p>
