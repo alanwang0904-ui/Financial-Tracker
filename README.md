@@ -100,7 +100,7 @@ Date,Amount
   <br>
   <em>Figure 3 — Cumulative Spending</em>
 </p>
----
+
 
 ## Troubleshooting
 
