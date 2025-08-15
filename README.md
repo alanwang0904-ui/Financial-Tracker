@@ -84,15 +84,15 @@ Date,Amount
 ## Example Outputs
 
 <p align="center">
-  <img src="output1.png" alt="Monthly Spending" width="70%">
+  <img src="output1.png" alt="Quarterly Spending" width="70%">
   <br>
-  <em>Figure 1 — Monthly Spending</em>
+  <em>Figure 1 — Quarterly Spending</em>
 </p>
 
 <p align="center">
-  <img src="output2.png" alt="Quarterly Spending" width="70%">
+  <img src="output2.png" alt="Monthly Spending" width="70%">
   <br>
-  <em>Figure 2 — Quarterly Spending</em>
+  <em>Figure 2 — Monthly Spending</em>
 </p>
 
 <p align="center">
