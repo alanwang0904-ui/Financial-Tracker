@@ -81,6 +81,25 @@ Date,Amount
 2024-02-14,450.00
 ```
 
+## Example Outputs
+
+<p align="center">
+  <img src="images/monthly_spending.png" alt="Monthly Spending" width="70%">
+  <br>
+  <em>Figure 1 — Monthly Spending</em>
+</p>
+
+<p align="center">
+  <img src="images/quarterly_spending.png" alt="Quarterly Spending" width="70%">
+  <br>
+  <em>Figure 2 — Quarterly Spending</em>
+</p>
+
+<p align="center">
+  <img src="images/cumulative_spending.png" alt="Cumulative Spending" width="70%">
+  <br>
+  <em>Figure 3 — Cumulative Spending</em>
+</p>
 ---
 
 ## Troubleshooting
